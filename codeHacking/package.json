@@ -24,7 +24,7 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "gulp": "^4.0.0",
         "gulp-cli": "^2.0.1",
         "node-sass": "^4.11.0"
